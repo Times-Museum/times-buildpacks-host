@@ -1,0 +1,14 @@
+{
+  "name": "alancwoo/buildpacks-host",
+  "description": "Buildpcks Host",
+  "type": "project",
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://php.cnpkg.org"
+    }
+  }
+}
